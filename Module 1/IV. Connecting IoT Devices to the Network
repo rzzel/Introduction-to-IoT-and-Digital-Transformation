@@ -1,0 +1,43 @@
+# Module 1: Everything is Connected
+
+## 1.4 Connecting IoT Devices to the Network
+
+### 1.4.1 Video - Add IoT Devices in Packet Tracer
+- **Objective:**
+  - Packet Tracer simulation for adding IoT devices to a Smart Home network.
+  - Introduction to available IoT devices in Packet Tracer.
+
+### 1.4.2 Packet Tracer - Add IoT Devices in Packet Tracer
+- **Objectives:**
+  - Explore the existing Smart Home network in Packet Tracer.
+  - Add wireless and wired IoT devices to the Smart Home network.
+
+### 1.4.3 Video - Connect Devices to a Home Gateway and Monitor Network
+- **Objective:**
+  - Packet Tracer allows connecting IoT devices to a home gateway.
+  - Learn to monitor connected devices.
+
+### 1.4.4 Packet Tracer - Connect Devices to a Home Gateway and Monitor Your Network
+- **Objectives:**
+  - Connect a home gateway to the network.
+  - Add end-user devices and IoT devices to the network.
+  - Connect Bluetooth devices to the network.
+
+### 1.4.5 Video - Cisco Intent-Based Networking
+- **Objective:**
+  - Introduction to Cisco Intent-Based Networking (IBN).
+  - Understanding how software and data can modify network settings.
+  - Exploring the concept of IBN.
+
+### 1.4.6 Video - The Future of Networking
+- **Objective:**
+  - Overview of Cisco Digital Network Architecture (DNA) and its role in future network management.
+  - Insight into the promising future of network management with Cisco DNA.
+
+### 1.4.7 Iota - Reflection
+- **Reflection:**
+  - Contemplation on the enormity of the IoT, encountered in daily life.
+  - Example: Smoke detectors as common IoT sensors for safety and security.
+  - Encourages thinking about other evidence of IoT in personal and others' lives.
+
+Note: Each section provides a brief overview of the content and objectives of the associated video or activity.
