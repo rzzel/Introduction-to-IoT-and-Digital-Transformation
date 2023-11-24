@@ -5,7 +5,23 @@
 ### 1.5.1 Everything is Connected Summary
 - **Topics Covered:**
   1. Digitization Transforms Business
+- The world is quickly being covered with networks which allow digital devices to interconnect and transmit. 
+As digital networks continue to grow around the world, and as the economic benefits of digitization continue to grow, 
+we are seeing a digital transformation. Digital transformation is the application of digital technology to provide the 
+stage for business and industry to innovate.
+Sensors are now everywhere, collecting and transmitting massive amounts of data. The generated data can be stored and analyzed at a later date, 
+or it can be analyzed and used immediately. The analyzed data is used by governments, cities, businesses, and individuals to effect changes such as 
+monitoring the environment, forecasting population growth, controlling waste management, or securing a home.
+
   2. Globally Connected Through Networks
+- Networks form the foundation of the digitized world. There are many types of networks that are characterized by their geographic size, 
+by the number of devices or networks that they connect, and by whether they support mobile devices or not. Networks can also be characterized by their 
+function and purpose.
+PAN: Bluetooth
+LAN
+WAN: Internet, the cloud, edge computing
+Wireless: Wi-Fi, Cellular
+
   3. The Growth of IoT Devices
   4. Connecting IoT Devices to the Network
 
