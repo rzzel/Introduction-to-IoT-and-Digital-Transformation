@@ -1,0 +1,44 @@
+2.3.5 Programming Structures in Python
+Programming Structures:
+
+IF-THEN Structures:
+
+Decision-making based on expressions.
+IF-THEN, ELSE, ELIF structures.
+Example:
+
+# IF-THEN, ELSE, ELIF block for decision-making
+x = int(input("Please enter an integer: "))
+if x < 0:
+    x = 0
+    print('Negative changed to zero')
+elif x == 0:
+    print('Zero')
+elif x == 1:
+    print('Single')
+else:
+    print('More')
+
+FOR Loop Structure:
+Iterates over items in a sequence.
+Example measuring string lengths.
+
+# FOR Loop
+words = ['cat', 'window', 'defenestrate']
+for w in words:
+    print(w, len(w))
+
+WHILE Loop:
+Executes a block of code while a condition is true.
+Example calculating Fibonacci series.
+
+# WHILE Loop
+a, b = 0, 1
+while b < 10:
+    print(b)
+    a, b = b, a + b
+
+Note:
+
+Proper indentation is crucial in Python for grouping statements.
+Indentation defines blocks of code (IF-THEN, FOR, WHILE).
