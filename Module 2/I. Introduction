@@ -1,0 +1,34 @@
+# Module 2: Introduction to Programming for IoT
+
+## 2.0 Introduction
+
+### 2.0.1 Iota - Why Should I Take this Module?
+- **Key Points:**
+  - Programming might seem challenging initially, but it's easy to learn the foundations.
+  - The module focuses on programming for IoT, making Things in the IoT do what you want without requiring expert programming skills.
+  - Assistance will be provided to simplify the learning process.
+
+### 2.0.2 What Will I Learn in this Module?
+- **Module Title:** Everything Becomes Programmable
+- **Module Objective:** Use Blockly and Python to create simple programs.
+
+**Topics:**
+1. **Basic Programming Concepts**
+   - **Objective:** Describe basic programming variables and fundamentals.
+
+2. **Programming using Blockly**
+   - **Objective:** Apply basic programming variables and fundamentals in Blockly.
+
+3. **Programming with Python**
+   - **Objective:** Apply basic programming variables and fundamentals using Python.
+
+4. **What is Prototyping**
+   - **Objective:** Describe prototyping.
+
+5. **Prototyping Resources**
+   - **Objective:** Describe the various tools and materials to use for prototyping.
+
+- **Notes:**
+  - The module covers fundamental programming concepts using Blockly and Python.
+  - Prototyping is introduced, and various resources for prototyping are discussed.
+  - The emphasis is on practical application, making programming for IoT accessible.
