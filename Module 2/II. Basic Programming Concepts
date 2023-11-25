@@ -1,0 +1,54 @@
+# Module 2: Introduction to Programming for IoT
+
+## 2.1 Basic Programming Concepts
+
+### 2.1.1 Check Your Understanding - Follow the Flowchart
+- **Door status**
+  - The sensor is checking for a **closed door.**
+- **Status check frequency**
+  - The sensor is checked **every 2 seconds.**
+- **Alarm - open 5 sec**
+  - The alarm will sound if the door is open for **5 seconds.**
+- **Alarm - open 10 sec**
+  - The alarm will sound if the door is open for **10 seconds.**
+- **Alarm - open/shut**
+  - The alarm will **not** sound if the door is open for 5 seconds, shut for 5 seconds, then reopened for 5 seconds.
+
+### 2.1.2 Flowcharts
+- Flowcharts are visual representations used in engineering, physical sciences, and computer programming.
+- They illustrate processes or workflows, focusing on logic rather than specific programming syntax.
+- Flowcharts show input states, decisions, and results, making them easy to understand.
+
+### 2.1.3 System Software, Application Software, and Computer Languages
+- **Software Types:**
+  - **System Software:** Controls computer hardware (e.g., Linux, Apple OSX, Microsoft Windows).
+  - **Application Software:** Designed for specific tasks (e.g., Cisco Packet Tracer).
+- **Programming Languages:**
+  - Used to create software.
+  - Examples: C++ (compiled), Python (interpreted).
+
+### 2.1.4 Programming Variables
+- **Variables:**
+  - Dynamic containers holding data or information.
+  - Types: Local (within a scope), Global (program execution scope).
+  - Facilitate code reuse with different data.
+
+### 2.1.5 Basic Program Structures
+- **Logic Structures:**
+  - **IF-THEN:** Decision-making based on expressions.
+  - **FOR Loops:** Execute instructions a specific number of times.
+  - **WHILE Loops:** Execute instructions while an expression is true.
+- **Example Python Code:**
+  ```python
+  # Program to Verify Leap Years in Python
+  year = int(input("Enter a year to check if it is a leap year\n"))
+  if (year % 4) == 0:
+      if (year % 100) == 0:
+          if (year % 400) == 0:
+              print("{0} is a leap year".format(year))
+          else:
+              print("{0} is not a leap year".format(year))
+      else:
+          print("{0} is a leap year".format(year))
+  else:
+      print("{0} is not a leap year".format(year))
