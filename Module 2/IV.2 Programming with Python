@@ -1,0 +1,12 @@
+The Python Interpreter
+Python Interpreter:
+
+Interpreted language requires an interpreter for parsing and execution.
+Available for various operating systems.
+Interactive mode allows command input, indicated by ">>>."
+Example:
+
+# IF-THEN block demonstration
+the_world_is_flat = True
+if the_world_is_flat:
+    print("Be careful! not to fall!")
