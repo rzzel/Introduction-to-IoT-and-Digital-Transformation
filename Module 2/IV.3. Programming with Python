@@ -1,0 +1,68 @@
+2.3.3 Variables and Basic Statements in Python
+Python Statements:
+
+Interpreter acts as a simple calculator.
+Expression syntax includes operators (+, -, *, /) and parentheses.
+Special variable "_" stores the result of the last expression.
+Examples:
+
+# Grouping with parentheses
+25 + 25
+70 + 7 * 6
+(50 - 5.0 * 6) / 4
+Using special variable "_" for result.
+python
+Copy code
+# Using special variable "_"
+tax = 12.5 / 100
+price = 100.50
+price * tax
+price + _
+round(_, 2)
+
+Variable Assignment:
+
+Assign values using "=".
+Undefined variables result in errors.
+Examples:
+
+# Variable assignment and usage
+birth_year = 1941
+curr_year = 2016
+curr_year - birth_year
+
+Error with undefined variable.
+
+# Error with undefined variable
+my_new_variable
+String Handling:
+
+Escape characters () in strings.
+Single/double quotes for string representation.
+
+Examples:
+
+# Handling strings with escape characters
+'spam eggs'
+'doesn\'t'
+"doesn't"
+'"Yes," he said.'
+"\"Yes,\" he said."
+
+Print statement and string formatting.
+
+# Print statement and string formatting
+i = 256 * 256
+print('The value of i is', i)
+Functions in Python:
+
+Block of code with a name, reusable.
+Example: Adding two numbers.
+
+# Example: Adding two numbers
+def add_nums():
+    a = 5
+    b = 11
+    return a + b
+
+print(add_nums())
