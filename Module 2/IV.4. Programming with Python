@@ -1,0 +1,85 @@
+2.3.4 Useful Functions and Data Types in Python
+Useful Functions and Datatypes:
+
+Range():
+Generates a list of numbers for loops.
+Examples with one, two, and three parameters.
+# Range() Function Examples
+# One parameter
+
+for i in range(3):
+    print(i)
+
+# Two parameters
+for i in range(3, 6):
+    print(i)
+
+# Three parameters
+for i in range(4, 10, 2):
+    print(i)
+
+Tuples:
+Unchangeable sequence of Python objects.
+Example demonstrating tuple usage.
+
+# Python Tuples Example
+tup1 = ('dancing', 'singing', 400, 1842)
+tup2 = (1, 2, 3, 4, 5, 6, 7)
+print('tup1[0]: ', tup1[0])
+print('tup2[1:5]: ', tup2[1:5])
+
+Lists:
+Changeable sequence of Python objects.
+Examples of list creation and update.
+
+# Python List Examples
+list1 = ['car', 'train', 47, 2016]
+list2 = [1, 2, 3, 4, 5, 6, 7]
+print('list1[0]: ', list1[0])
+print('list2[1:5]: ', list2[1:5])
+
+list = ['car', 'train', 47, 2016]
+print('Value available at index 2 : ')
+print(list[2])
+list[2] = 2017
+print('New value available at index 2 : ')
+print(list[2])
+
+Sets:
+Unordered collections of unique elements.
+Examples of set usage.
+
+# Python Sets Examples
+x = [1, 2, 3, 1, 2, 3, 1, 2, 3]
+set(x)
+
+y = [1, 1, 6, 6, 6, 6, 6, 8, 8]
+set(y)
+
+z = [("Bird", "Cat", "Dog", "Dog", "Bird", "Bird")]
+set(z)
+
+animals = set(["Cow", "Fish", "Pig", "Horse"])
+animals.add("Cat")
+print(animals)
+
+for group in [animals]:
+    group.discard("Fish")
+    print(group)
+
+Dictionaries:
+Key-value pairs, dictionary operations.
+Example of dictionary creation and updates.
+
+# Example Dictionary with Four Elements
+dict = {'Age': 34, 'City': 'Rome', 'Year': 2016, 'Month': 'March'}
+print("dict['City']: ", dict['City'])
+print("dict['Year']: ", dict['Year'])
+
+# Update a Dictionary Value Example
+dict['Year'] = 2015
+print("dict['Year']: ", dict['Year'])
+
+# Add a New Element and Display the Number of Elements in a Dictionary Example
+dict['Sport'] = "Swimming"
+len(dict)
