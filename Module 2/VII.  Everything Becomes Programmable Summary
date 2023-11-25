@@ -1,0 +1,78 @@
+# 2.6 Everything Becomes Programmable Summary
+
+## 2.6.1 Everything Becomes Programmable Summary
+
+### Basic Programming Concepts
+- Flowcharts depict processes; two types of software: system and application software.
+- Programming variables: Local (scoped within a program) and Global (accessible throughout program execution).
+- Common logic structures: IF-THEN, FOR Loops, WHILE Loops.
+- Blockly: Visual programming tool for beginners, utilizing colored blocks to represent programming structures.
+- Python: Interpreted language, supports variables, functions, and various data types.
+
+### Prototyping
+- Prototyping is the process of creating a working model of a product or system.
+- Google used the "Rapid Prototyping Method" for Google Glass.
+- Internet platforms (Makezine, Makerbot, Arduino, Raspberry Pi, Beaglebone) facilitate collaboration.
+- Prototyping materials range from wood and metal to plastic, clay, and 3D printing.
+
+### Programming Resources
+- MIT OpenCourseWare, Khan Academy, and Code Academy offer free programming courses.
+- Programming is critical for IoT development; Python is a popular language.
+- Community workshops and online platforms like Kickstarter aid exposure for ideas and prototypes.
+
+## 2.6.2 Everything Becomes Programmable Quiz
+
+### Quiz Answers
+1. **Q: A student has a digitized version of an idea for a product. What machine can the student use to turn the idea into a solid object?**
+   - **Answer: 3D printer**
+
+2. **Q: How is a new variable created in Blockly?**
+   - **Answer: Drag the variable block onto the workspace area.**
+
+3. **Q: What is Blockly?**
+   - **Answer: A programming tool for beginners.**
+
+4. **Q: Refer to the exhibit. A specific Blockly block has a slot on the top. What is the purpose of this slot?**
+   - **Answer: The slot allows a block with a bevel tab on the bottom to be connected above the block shown.**
+
+5. **Q: What is one way to pay for prototyping?**
+   - **Answer: Crowd funding**
+
+6. **Q: What are two resources that could help someone learn to program? (Choose two.)**
+   - **Answer: Code Academy, Khan Academy**
+
+7. **Q: What is used to illustrate how a given process will run?**
+   - **Answer: Flow chart**
+
+8. **Q: What is displayed after the following code is entered into a Python interpreter?**
+   ```python
+   addition = 22 + 10
+   print(addition)
+
+Answer: 32
+
+Q: What is the output when the following code is entered into a Python program interpreter?
+
+[1,2,4,5] + [3,6]
+Answer: [1,2,4,5,3,6]
+Q: Which output would be displayed if the code below is entered in a Python interpreter?
+
+y = ['yellow', 'red', 'green', 'purple', 'white']
+print(y)
+
+Answer: 'yellow', 'red', 'green', 'purple', 'white'
+
+Q: Which Python programming function is used to display output?
+
+Answer: print
+Q: What output is expected when the function below is entered in a Python program interpreter?
+
+>>> print Cisco 1
+Answer: "SyntaxError: Missing parentheses in call to 'print'"
+
+Q: Refer to the exhibit. What does the exhibited flow chart symbol commonly represent?
+
+Answer: Decision
+Q: Refer to the exhibit. What does the exhibited flow chart symbol represent?
+
+Answer: Process
