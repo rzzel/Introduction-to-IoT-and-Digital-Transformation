@@ -52,3 +52,20 @@
           print("{0} is a leap year".format(year))
   else:
       print("{0} is not a leap year".format(year))
+
+2.1.6 Check Your Understanding - Programming Language Concepts
+Programming type - machine to execution
+-Compiled
+Software type - control hardware
+-System
+Programming type - Python
+-Interpreted
+Graphical representation of a process
+-Flowchart
+Step-by-step instructions
+-Algorithm
+Loop - continue until false
+-WHILE
+Variable visible to entire program
+-Global
+
