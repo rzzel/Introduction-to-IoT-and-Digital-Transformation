@@ -1,0 +1,170 @@
+3.2 Where is Big Data Stored?
+Scroll to begin  
+
+Complete 3.2.1 What Are the Challenges of Big Data?3.2.1 What Are the Challenges of Big Data?
+The World Economic Forum predicts that the amount of data generated daily will be 463 exabytes (EB) globally. One EB is equal to one billion gigabytes! To put this into context, according to Statista, every minute of every day:
+
+We upload over 500 hours of YouTube video.
+We send over 69 million instant messages.
+We stream over 347,000 GB of Netflix video.
+We send 198 million emails.
+We upload over 60,000 Instagram images.
+To see more dynamic internet statistics search on “internet live stats.”
+
+The rapid growth of data can be an advantage or an obstacle when it comes to achieving business goals. To be successful, enterprises must be able to easily access and manage their data assets.
+
+With this enormous amount of data being constantly created, traditional technologies and data warehouses cannot keep up with storage needs. Even with the cloud storage facilities that are available from companies like Amazon, Google, Microsoft, and many others, the security of stored data becomes a big problem. Big Data solutions must be secure, have a high fault tolerance, and use replication to ensure data does not get lost. Big Data storage is not only about storing data, but also about managing and securing it.
+
+For more interesting statistics on internet growth and trends, see the Cisco Annual Internet Report.
+
+
+Complete 3.2.2 Where Can We Store Big Data?3.2.2 Where Can We Store Big Data?
+Big data is typically stored on multiple servers, usually housed within data centers. For security, accessibility, and redundancy, the data is usually distributed and/or replicated on many different servers in many different data centers.
+
+Edge Computing
+
+Edge computing is an architecture that utilizes end-user clients or devices at the edge of the network to do a substantial amount of the pre-processing and storage required by an organization. Edge computing was designed to keep the data closer to the data source for pre-processing.
+
+Sensor data, in particular, can be pre-processed closer to where it was collected. The information gained from that pre-processed analysis can be fed back into companies’ systems to modify processes if required. Because the sensor data is pre-processed by end devices within the company system, communications to and from the servers and devices is quicker. This requires less bandwidth than constantly sending raw data to the cloud.
+
+After the data has been pre-processed, it is often shipped off for longer term storage, backup, or deeper analysis within the cloud.
+
+The figure shows Fog computing for an airport, apartment buildings, and a restaurant and how they all connect to the Internet which provides cloud computing and data center services.
+asset.descriptionasset.descriptionasset.descriptionasset.descriptionEdge ComputingCloud ComputingInternetEdge ComputingEdge ComputingEdge ComputingData Center
+
+Complete 3.2.3 The Cloud and Cloud Computing3.2.3 The Cloud and Cloud Computing
+As mentioned before, the cloud is a collection of data centers or groups of connected servers. Access to software, storage, and services available on the servers is obtained through the internet via a browser interface. Cloud services are provided by many large companies such as Google, Microsoft, and Apple. Cloud storage services are provided by different vendors such as: Google Drive, Apple iCloud, Microsoft OneDrive, and Dropbox.
+
+From an individual’s perspective, using the cloud services allows you:
+
+To store all of your data, such as pictures, music, movies, and emails, freeing up local hard drive space
+To access many applications instead of downloading them onto your local device
+To access your data and applications anywhere, anytime, and on any device
+One of the disadvantages of using the cloud is that your data could fall into the wrong hands. Your data is at the mercy of the security robustness of your chosen cloud provider.
+
+From the perspective of an enterprise, cloud services and computing support a variety of data management issues:
+
+It enables access to organizational data anywhere and at any time.
+It streamlines the IT operations of an organization by subscribing only to needed services.
+It eliminates or reduces the need for onsite IT equipment, maintenance, and management.
+It reduces the cost of equipment, energy, physical plant requirements, and personnel training needs.
+It enables rapid responses to increasing data volume requirements.
+Complete 3.2.4 Distributed Processing3.2.4 Distributed Processing
+From a data management perspective, analytics were simple when only humans created data. The amount of data was manageable and relatively easy to sift through. However, with the explosion of business automation systems and the exponential growth of web applications and machine-generated data, analytics is becoming increasingly more difficult to manage. In fact, 90% of data that exists today has been generated in just the last two years. This increased volume within a short period of time is a property of exponential growth. This high volume of data is difficult to process and analyze within a reasonable amount of time.
+
+Rather than large databases being processed by big and powerful mainframe computers and stored in giant disk arrays (vertical scaling), distributed data processing takes the large volume of data and breaks it into smaller pieces. These smaller data volumes are distributed in many locations to be processed by many computers with smaller processors. Each computer in the distributed architecture analyzes its part of the Big Data picture (horizontal scaling).
+
+Most distributed file systems are designed to be invisible to client programs. The distributed file system locates files and moves data, but the users have no way of knowing that the files are distributed among many different servers or nodes. The users access these files as if they were local to their own computers. All users see the same view of the file system and are able to access data concurrently with other users.
+
+Hadoop was created to deal with these Big Data volumes. The Hadoop project started with two facets: The Hadoop Distributed File System (HDFS) is a distributed, fault tolerant file system, and MapReduce, which is a distributed way to process data. Hadoop has now evolved into a very comprehensive ecosystem of software for Big Data management.
+
+Hadoop is open-source software enabling the distributed processing of large data sets that can be terabytes in size and that are stored in clusters of computers. Hadoop is designed to scale up from single servers to thousands of machines, each offering local computation and storage. To make it more efficient, Hadoop can be installed and run on many VMs. These VMs can all work together in parallel to process and store the data.
+
+Hadoop has two main features that have made it the industry standard for handling Big Data:
+
+Scalability - Larger cluster sizes improve performance and provide higher data processing capabilities. With Hadoop, cluster size can easily scale from a five node cluster to a one thousand node cluster without excessively increasing the administrative burden.
+Fault tolerance – Hadoop automatically replicates data across clusters to ensure data will not be lost. If a disk, node, or a whole rack fails, the data is safe.
+Incomplete 3.2.5 Check Your Understanding - Define Big Data Terms3.2.5 Check Your Understanding - Define Big Data Terms
+Check your understanding of where big data is stored by choosing the correct answer to the following questions.
+
+Incomplete 3.2.5 Big Data terms 1Question 1
+This is a multiple choice question. Once you have selected an option, select the submit button below
+Which of the following refers to generating high volumes of data?
+
+Edge
+
+Sensors
+
+Velocity
+
+Hadoop
+
+Distributed database
+
+Cloud services
+Submit
+Show feedback
+Incomplete 3.2.5 Big Data terms 2Question 2
+This is a multiple choice question. Once you have selected an option, select the submit button below
+Which characteristic is used to describe big data?
+
+Edge
+
+Sensors
+
+Velocity
+
+Hadoop
+
+Distributed database
+
+Cloud services
+Submit
+Show feedback
+Incomplete 3.2.5 Big Data terms 3Question 3
+This is a multiple choice question. Once you have selected an option, select the submit button below
+Which of the following refers to servers located close to the company network edge for pre-processing data?
+
+Edge
+
+Sensors
+
+Velocity
+
+Hadoop
+
+Distributed database
+
+Cloud services
+Submit
+Show feedback
+Incomplete 3.2.5 Big Data terms 4Question 4
+This is a multiple choice question. Once you have selected an option, select the submit button below
+Which of the following provides storage and access to applications via a web browser?
+
+Edge
+
+Sensors
+
+Velocity
+
+Hadoop
+
+Distributed database
+
+Cloud services
+Submit
+Show feedback
+Incomplete 3.2.5 Big Data terms 5Question 5
+This is a multiple choice question. Once you have selected an option, select the submit button below
+Which tool was created to distribute and process big datasets in smaller quantities?
+
+Edge
+
+Sensors
+
+Velocity
+
+Hadoop
+
+Distributed database
+
+Cloud services
+Submit
+Show feedback
+Incomplete 3.2.5 Big Data terms 6Question 6
+This is a multiple choice question. Once you have selected an option, select the submit button below
+Which of the following refers to large volume of data broken into smaller pieces and stored on different servers?
+
+Edge
+
+Sensors
+
+Velocity
+
+Hadoop
+
+Distributed database
+
+Cloud services
+Submit
