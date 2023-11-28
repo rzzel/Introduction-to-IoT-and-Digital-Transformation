@@ -1,0 +1,70 @@
+# 3.3 Supporting Business with Big Data
+
+## 3.3.1 Why Do Businesses Analyze Data?
+
+- Every organization aims to become more efficient and innovative in the digitized world.
+- The IoT is integral for achieving efficiency and innovation.
+- Businesses collect and analyze product-usage data to gain valuable insights.
+- Data analytics allows understanding the impact of products and services, adjusting methods, and providing better products faster.
+- Processed data types: transactional (daily operations) and analytical (managerial analysis).
+
+## 3.3.2 Sources of Information
+
+- Large datasets receive data from various sources:
+  - Social media sites.
+  - Internet (HTTP, web pages, search engines).
+  - Historical data archives.
+  - Metadata from emails, transmitted documents, and pictures.
+  - Medical, insurance, and tax forms.
+  - Genomics research using DNA.
+- Data categorized as structured (fixed format) and unstructured (freeform).
+
+## 3.3.3 Data Visualization
+
+- Data mining turns raw data into meaningful information by discovering patterns and relationships.
+- Mined data needs analysis and presentation for managers.
+- Various visualizations available based on variables, data points, timelines, and comparisons.
+- Popular chart types: line, column, bar, pie, scatter.
+
+## 3.3.4 Chart Types and Uses
+
+- Line Chart: Shows trends over time.
+- Scatter Plot: Displays relationships between two variables.
+- Pie Chart: Represents data as a segment of a whole.
+- Column Chart: Useful for comparing individual items.
+- Bar Chart: Compares data across different categories.
+
+## 3.3.5 Video: Hans Rosling: 200 years in 4 Minutes
+
+- Data visualization example: "Hans Rosling: 200 Countries, 200 Years, 4 Minutes."
+- Demonstrates the global relationship between wealth and life expectancy over 200 years.
+
+## 3.3.6 Analyzing Big Data for Effective Use in Business
+
+- Big data needs analysis for value extraction.
+- Data analysis involves inspecting, cleaning, transforming, and modeling data to uncover useful information.
+- Tools range from Excel for small to medium samples to dedicated applications for big datasets.
+- Strategy crucial for effective analysis and presentation.
+
+## 3.3.8 Check Your Understanding - Big Data Terms
+
+### Data type - spreadsheet (Question 1)
+- **Answer:** Structured
+
+### Plaintext file example (Question 2)
+- **Answer:** JSON
+
+### Information processed in real time (Question 3)
+- **Answer:** Transactional
+
+### Freeform data (Question 4)
+- **Answer:** Unstructured
+
+### Chart Type 1 (Question 5)
+- **Answer:** Pie
+
+### Chart Type 2 (Question 6)
+- **Answer:** Line
+
+### Big Data analytics tool (Question 7)
+- **Answer:** RapidMiner
