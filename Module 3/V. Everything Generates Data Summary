@@ -1,0 +1,63 @@
+# 3.4 Everything Generates Data Summary
+
+## What is Big Data?
+
+- **Characteristics of Big Data:**
+  1. **Volume:** Large amounts of data requiring more storage space.
+  2. **Velocity:** Exponential growth rate of data.
+  3. **Variety:** Data generated in different formats.
+
+## Where is Big Data Stored?
+
+- Big data is typically stored on multiple servers, usually housed within data centers.
+- Storage locations include edge computing, the cloud, and distributed processing.
+
+## Supporting Business with Big Data
+
+- Businesses analyze data for efficiency, innovation, and valuable insights.
+- Data is considered the new oil; its value is realized through processing and analysis.
+- Processed data types include transactional (daily operations) and analytical (managerial analysis).
+
+## Quiz Questions
+
+### Question 1
+- **Answer:** Velocity
+
+### Question 2
+- **Answer:** False
+
+### Question 3
+- **Answer:** Access
+
+### Question 4
+- **Answer:** Security
+
+### Question 5
+- **Answer:** Maintaining the integrity of stored data
+
+### Question 6
+- **Answer:** False
+
+### Question 7
+- **Answers:** Easily scalable cluster sizes, automatic replication of data across clusters, uses HDFS as a fault-tolerant file system
+
+### Question 8
+- **Answer:** A system of data centers or connected servers that provide anywhere/anytime access to data and applications
+
+### Question 9
+- **Answer:** False
+
+### Question 10
+- **Answer:** Transactional data
+
+### Question 11
+- **Answer:** Analyzed data
+
+### Question 12
+- **Answer:** Structured data
+
+### Question 13
+- **Answer:** False
+
+### Question 14
+- **Answer:** Data mining
