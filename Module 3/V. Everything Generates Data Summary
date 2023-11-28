@@ -1,24 +1,30 @@
 # 3.4 Everything Generates Data Summary
 
-## What is Big Data?
+## 3.4.1 Everything Generates Data Summary
 
-- **Characteristics of Big Data:**
-  1. **Volume:** Large amounts of data requiring more storage space.
-  2. **Velocity:** Exponential growth rate of data.
-  3. **Variety:** Data generated in different formats.
+### What is Big Data?
 
-## Where is Big Data Stored?
+- Characteristics of Big Data: Volume, Velocity, Variety.
+- Volume: Large amounts of data requiring more storage space.
+- Velocity: Exponential growth of data.
+- Variety: Generated in different formats.
 
-- Big data is typically stored on multiple servers, usually housed within data centers.
-- Storage locations include edge computing, the cloud, and distributed processing.
+### Where is Big Data Stored?
 
-## Supporting Business with Big Data
+- Edge Computing: Utilizes end-user clients for pre-processing and storage.
+- Cloud: Collection of data centers, provides anywhere/anytime access via browser.
+- Distributed Data Processing: Breaks large volumes into smaller pieces, analyzed by many computers.
 
-- Businesses analyze data for efficiency, innovation, and valuable insights.
-- Data is considered the new oil; its value is realized through processing and analysis.
-- Processed data types include transactional (daily operations) and analytical (managerial analysis).
+### Supporting Business with Big Data
 
-## Quiz Questions
+- Businesses analyze data to gain insights, adjust methods, and provide better products.
+- Collected data categorized as structured or unstructured.
+- Structured data: Fixed format (spreadsheets, forms).
+- Unstructured data: Freeform (audio, video, web pages, tweets).
+- Data mining: Turning raw data into meaningful information.
+- Data visualization: Using charts (line, column, bar, pie, scatter) to present information.
+
+## 3.4.2 Everything Generates Data Quiz
 
 ### Question 1
 - **Answer:** Velocity
@@ -33,13 +39,13 @@
 - **Answer:** Security
 
 ### Question 5
-- **Answer:** Maintaining the integrity of stored data
+- **Answer:** Generating and collecting data from multiple sources
 
 ### Question 6
 - **Answer:** False
 
 ### Question 7
-- **Answers:** Easily scalable cluster sizes, automatic replication of data across clusters, uses HDFS as a fault-tolerant file system
+- **Answer:** Easily scalable cluster sizes, Automatic replication of data across clusters, Uses HDFS as a fault-tolerant file system
 
 ### Question 8
 - **Answer:** A system of data centers or connected servers that provide anywhere/anytime access to data and applications
