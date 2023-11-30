@@ -1,0 +1,74 @@
+4.4 Everything Can Be Automated Summary
+
+Automation
+This module began by discussing automation. Automation is any process that is self-driven and reduces, then eventually eliminates, the need for human intervention. The IoT opens up a new world in which tasks previously requiring human intervention can become automated. Many devices now incorporate smart technology to alter their behavior under certain circumstances. Some examples of smart technology can be found in smart homes and buildings, cities, a smart power grid, and smart cars.
+
+Artificial Intelligence (AI) and Machine Learning (ML)
+Next, the module detailed Artificial Intelligence (AI). AI is the intelligence demonstrated by machines. As technology develops, many of the tasks that at one time required AI have become routine. Many of these tasks have migrated from AI to Machine Learning (ML). ML is a subset of AI that uses statistical techniques to give computers the ability to “learn” from their environment. Some examples of ML in the IoT include speech and facial recognition, product recommendation, and credit card fraud detection.
+
+Intent-Based Networking
+The next topic of this module covered Intent-Based Networking (IBN). The new business network must integrate IoT devices, cloud-based services, and remote offices in a way that is relevant and responsive to business. The network must secure these new digital initiatives from the ever-changing threat landscape. IBN is a systematic approach to tie infrastructure management to business intent.
+
+An IBN uses AI and ML to ensure that any services that are deployed meet the required service level. A model of IBN contains three elements including assurance, translation, and activation. The Cisco Digital Network Architecture (Cisco DNA) is an example of an intent-based network. It is an open, extensible, software-driven architecture. It accelerates and simplifies enterprise network operations, while lowering costs and reducing risks.
+
+4.4.2 Everything Can Be Automated Quiz
+
+Question 1
+What is artificial intelligence?
+- **Answer:** the ability of a device to "learn" based on code and provided data
+
+Question 2
+Which field has traditionally been tied to automation?
+- **Answer:** robotics
+
+Question 3
+What is a requirement for a device to be referred to as a smart device?
+- **Answer:** The device can make a decision or take a course of action based on outside information.
+
+Question 4
+True or False? An appliance that lowers power consumption during peak demand is considered a smart device.
+- **Answer:** true
+
+Question 5
+Which two applications commonly use ML technology? (Choose two.)
+- **Answer:** speech recognition, credit card fraud detection
+
+Question 6
+Which ML technology can be used to identify and track individual persons?
+- **Answer:** facial recognition
+
+Question 7
+Which technology uses AI and other technologies to reconfigure a network to comply with service levels?
+- **Answer:** IBN
+
+Question 8
+What is a key feature of the translation element of the intent-based networking model?
+- **Answer:** application of business intent to network configuration
+
+Question 9
+What three technologies control network functions to accomplish a desired intent in an intent-based network? (Choose three.)
+- **Answer:** artificial intelligence, automation, machine learning
+
+Question 10
+What are two characteristics of artificial intelligence? (Choose two.)
+- **Answer:** It uses intelligent agents that interact with the environment and make decisions to reach a specific goal. It uses systems that mimic human cognitive functions such as learning and problem solving.
+
+Question 11
+What term is used to describe the intelligence demonstrated by machines?
+- **Answer:** artificial intelligence
+
+Question 12
+Which technology enables features such as speech recognition, product recommendations, and credit card fraud detection?
+- **Answer:** machine learning
+
+Question 13
+What are two examples of automation? (Choose two.)
+- **Answer:** A robot cleans up an industrial chemical spill. A building automatically adjusts the heating and lights based on the routine of the occupants.
+
+Question 14
+Which element of the IBN model orchestrates policies and configures systems?
+- **Answer:** activation
+
+Question 15
+Which action takes place in the assurance element of the IBN model?
+- **Answer:** verification and corrective action
