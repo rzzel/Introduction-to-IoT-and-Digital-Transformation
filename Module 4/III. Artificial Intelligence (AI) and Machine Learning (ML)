@@ -1,0 +1,74 @@
+4.2 Artificial Intelligence (AI) and Machine Learning (ML)
+
+4.2.1 What is Artificial Intelligence (AI) and Machine Learning (ML)?
+Artificial Intelligence (AI) is the intelligence demonstrated by machines. This is in contrast to natural intelligence which is the intelligence displayed by living organisms. AI uses intelligent agents that can perceive their environment and make decisions that maximize the probability of obtaining a specific goal or objective. AI refers to systems that mimic cognitive functions normally associated with human minds such as learning and problem solving.
+
+Some of the tasks that currently are deemed to require a degree of AI are autonomous cars, intelligent routing in content delivery networks, strategic game playing, and military simulations.
+
+As technology develops, many of the tasks that at one time required AI have become routine. Many of these tasks have migrated from AI to Machine Learning (ML).
+
+ML is a subset of AI that uses statistical techniques to give computers the ability to “learn” from their environment. This enables computers to improve on a particular task without being specifically programmed for that task.
+
+This is especially useful when designing and programming specific algorithms is difficult or infeasible. Examples of such tasks in computer science include malicious code detection, network intruder detection, optical character recognition, computer speech recognition, and computer vision.
+
+One objective of learning is to be able to generalize based on experience. For machines, this involves the ability to perform accurately on new, previously unseen tasks after gaining experience with a learning data set. The training data set must come from data that is representative of the larger data pool. This data pool enables the machine to build a general model about this data, which would help it make accurate predictions.
+
+4.2.2 Machine Learning in the IoT
+One of the features of the IoT is that it enables the collection of extremely large pools of data that can “teach” programs how to respond in certain conditions. Some of the more common uses of ML technology include:
+
+- Speech Recognition
+- Product Recommendation
+- Shape Recognition
+- Credit Card Fraud Detection
+- Facial Recognition
+- Anomaly Detection
+- Image Recognition
+
+Think about your interactions with online and offline systems over the past week. How many ML applications have you interacted with?
+
+4.2.3 Lab – Design a Prototype of an AI Application
+With IoT devices and IoT networks getting popular, technologies for IoT devices are also improving rapidly. IoT devices are no longer limited to sensors and actuators; they may have the capability to think and act accordingly according to environment changes, thanks to the development of artificial intelligence (AI) and machine learning (ML).
+
+In this lab, you will design a prototype for an AI application.
+
+[Design a Prototype of an AI Application](lab-link)
+
+4.2.4 Check Your Understanding - Artificial Intelligence and Machine Learning
+Test your knowledge by answering these questions.
+
+Check your understanding of artificial intelligence and machine learning by choosing the correct answer to the following questions.
+
+#### AI / ML term 1
+What term is used to describe a device that can alter its behavior based on environmental input?
+
+- **Answer:** Artificial Intelligence
+
+#### AI / ML term 2
+What term is used to describe the intelligence shown by living organisms?
+
+- **Answer:** Natural Intelligence
+
+#### AI / ML term 3
+What term is used to describe the use of statistical techniques to allow a machine to alter its behavior?
+
+- **Answer:** Machine Learning
+
+#### AI / ML term 4
+What term is used to describe the intelligence shown by machines?
+
+- **Answer:** Artificial Intelligence
+
+#### AI / ML
+True or false? Machine Learning is part of Artificial Intelligence.
+
+- **Answer:** True
+
+#### AI dependency
+True or false? Smart Technology depends on AI to function.
+
+- **Answer:** True
+
+#### ML dependency
+True or false? Automation depends on ML to function.
+
+- **Answer:** True
