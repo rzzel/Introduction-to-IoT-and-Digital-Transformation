@@ -1,0 +1,82 @@
+4.3 Intent-Based Networking
+
+4.3.1 What Is Intent-Based Networking (IBN)?
+For a business to survive, it must be agile and respond quickly to the needs and demands of its customers. Businesses are increasingly dependent on their digital resources to meet customer demands, so the underlying IT network must also be responsive enough to quickly adapt to these requirements. This normally involves adjustments to many systems and processes. These adjustments may include changes to security policies and procedures, business services and applications, and operational policies.
+
+With traditional networks, many different components must be manually adjusted to meet ever-changing business requirements. This requires different technicians and engineers to ensure that the systems are changed in a manner that allows them to work together to accomplish their goal. This sometimes results in errors and delays, and often in sub-optimal network performance.
+
+The new business network must seamlessly and securely integrate IoT devices, cloud-based services, and remote offices in an agile, responsive, and business-relevant manner. Additionally, the network must secure these new digital initiatives from the ever-changing threat landscape.
+
+To address this need, the IT industry has initiated an effort to create a systematic approach to tie infrastructure management to business intent. This approach is known as intent-based networking. The figure illustrates the general idea behind intent-based networking. With this new paradigm, business needs are automatically and continually translated into IT infrastructure execution.
+
+![Intent-based Network Infrastructure](image-link)
+
+4.3.2 How are AI, ML, and IBN linked?
+Intent-based networking harnesses the power of automation, AI, and ML to control the function of a network to accomplish a specific purpose, or intent.
+
+Intent-based networking allows the IT team to specify, in plain language, exactly what they want the network to accomplish and the network makes it happen. The network is able to translate the intent into policies and then use automation to deploy the appropriate configurations required across the network.
+
+The intent-based network uses AI and ML to ensure that any services that are deployed meet the required service level. If they do not meet the service level, the intent-based network can make alerts and provide suggestions for improvement. In some cases, the intent-based network can automatically reconfigure the network to comply with the service levels.
+
+#### The Intent-based Networking Model
+The intent-based networking model shown in the figure consists of three key elements:
+
+- **Assurance**
+- **Translation**
+- **Activation**
+
+For more information and free training on intent-based networking visit [The Cisco Learning Network](training-link).
+
+4.3.3 Video - Use Cases for Intent-Based Networking
+Intent-based networking allows the company to focus on business goals. It provides an automated system that understands what the organization needs and then makes it happen. Click Play in the video for an overview of intent-based networking.
+
+The Cisco Digital Network Architecture (Cisco DNA) is an example of an intent-based network. It is an open, extensible, software-driven architecture. It accelerates and simplifies enterprise network operations, while lowering costs and reducing risks.
+
+Cisco DNA automation and assurance are built on a software-defined networking (SDN) controller, rich contextual analytics, network virtualization, and the limitless scalability of the cloud.
+
+Click Play in the video for an overview of intent-based networking.
+
+![Use Cases for Intent-Based Networking](video-link)
+
+4.3.4 Lab – Research Intent-Based Networking (IBN)
+Today the network connects everything. What if the network could constantly adapt, protect, and notify based on the intent of the business owner? An intent-based network, on an open platform, can align the end-to-end network with that intent. It can bridge the gap between what the business needs and what the network delivers.
+
+In this lab, you will explore some of the possibilities created by intent-based networking (IBN).
+
+[Research Intent-Based Networking (IBN)](lab-link)
+
+4.3.5 Check Your Understanding - Intent-Based Networking
+Check your understanding of intent-based networking by choosing the correct answer to the following questions.
+
+#### IBN business goals
+True or false? Intent-based networking automatically aligns the configuration of a company's digital resource to their business goals.
+
+- **Answer:** True
+
+#### IBN reconfigurations
+True or false? In some cases, intent-based networking will automatically reconfigure the network to ensure compliance with required service levels.
+
+- **Answer:** True
+
+#### Individual network devices
+Which of the following refers to configuration of individual network devices?
+
+- **Answer:** Automation
+
+#### Terms - network device configuration
+What is the term for configuration of individual network devices?
+
+- **Answer:** Translation
+
+#### Terms - network-wide behavior
+What is the term for end-to-end verification of network-wide behavior?
+
+- **Answer:** Assurance
+
+#### Terms - business intent to network configuration
+What is the term for conversion of business intent into network configuration?
+
+- **Answer:** Activation
+
+4.3.6 Iota - reflection
+It’s fun to think of silly things to automate, like a toy for your cat. And sometimes those playful ideas lead to better ideas, and like the Intent-Based Network video said, better ideas can lead to great ideas! You can also think about big ideas for things to automate. Could automation help to clean up the planet? Could automation help to speed up medical research? Take a little time to think about ways that the IoT and automation could improve the world for everyone.
