@@ -1,0 +1,24 @@
+**5.1 Why is Security so Important?**
+
+**5.1.1 Types of Data**
+- Emphasizes the increased quantity, volume, variety, and immediacy of data in the digitized world.
+- Historical data analysis compared to current data collection and aggregation.
+- Discusses the changing characteristics of gathered data, focusing on personal and sensitive data.
+- Introduces Personally Identifiable Information (PII) and Informational data.
+  - Examples of PII: Social security number, email address, bank account numbers, etc.
+  - Examples of Informational data: Rain gauge value, hospital emergency use, census data, etc.
+
+**5.1.2 Lab – Types of Data**
+- Practical exploration of different types of collected data.
+- Assessment of the sensitivity of data and identification of potential beneficiaries of data theft.
+
+**5.1.3 Who Wants our Data?**
+- Differentiates between good actors (legitimate users) and bad actors (hackers) in the context of data usage.
+- Discusses legitimate uses of data by companies, governments, and ethical hackers.
+- Highlights concerns about individuals accepting user agreements without understanding potential data misuse.
+- Introduces the General Data Protection Regulation (GDPR) as a measure to ensure data privacy.
+
+**5.1.4 Data in the Wrong Hands**
+- Discusses real-world examples of data breaches and their impact.
+- Mentions cyber-attacks on Yahoo, Equifax, MyFitnessPal, and Uber.
+- Emphasizes the significant consequences of data breaches, including identity theft and reputational damage.
