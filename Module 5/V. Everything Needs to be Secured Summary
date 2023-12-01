@@ -17,21 +17,65 @@
 **5.4.2 Everything Can be Automated**
 Incomplete questions related to risk assessment, security best practices, wireless network protection, virtual assistants, USB flash drives, password security, white hat hackers, online risk reduction, and personally identifiable information.
 
-**Incomplete Questions - Brief Overview:**
-1. **Goal of Risk Assessment:** Understanding the purpose of performing a risk assessment.
-2. **Security Best Practices Matching:** Matching security best practices with their descriptions.
-3. **Identifying a Wireless Network:** Knowing what is used to identify a wireless network.
-4. **Protecting Wireless Networks:** Choosing recommended steps for protecting and securing a wireless network.
-5. **Router Security Best Practice:** Identifying a wireless router security best practice that limits access.
-6. **Virtual Assistant Security Risk:** Identifying how a virtual assistant can pose a security risk.
-7. **USB Flash Drives Security Risk:** Recognizing security risks associated with USB flash drives.
-8. **Least Secure Passwords:** Identifying the least secure passwords among given options.
-9. **Use of Zabasearch:** Understanding why an IT person might use Zabasearch.
-10. **Goal of a White Hat Hacker:** Identifying the goal of a white hat hacker.
-11. **Reducing Online Risk:** Choosing an action that can help reduce online risk.
-12. **Security Risk in a Wi-Fi Hotspot:** Identifying an action to reduce the security risk of using a Wi-Fi hotspot.
-13. **Creating a Strong Password:** Selecting elements to combine when creating a strong password.
-14. **Examples of Personally Identifiable Information:** Identifying examples of personally identifiable information.
-15. **High Security Risks in Online Activities:** Choosing online activities with high security risks.
+Goal of Risk Assessment:
+
+Question: What is a goal of performing a risk assessment?
+Answer: Outlining job duties and expectations.
+Security Best Practices Matching:
+
+Question: Match the security best practice to the description.
+Answer: (Complete the matching exercise based on the provided options.)
+Identifying a Wireless Network:
+
+Question: What is used to identify a wireless network?
+Answer: SSID.
+Protecting Wireless Networks:
+
+Question: What are two recommended steps to protect and secure a wireless network? (Choose two.)
+Answer: Update firmware, Use WPA2-AES encryption.
+Router Security Best Practice:
+
+Question: What is a wireless router security best practice that limits access?
+Answer: MAC address filtering.
+Virtual Assistant Security Risk:
+
+Question: How can a virtual assistant be a security risk?
+Answer: Personal information could be leaked.
+USB Flash Drives Security Risk:
+
+Question: How are USB flash drives a security risk?
+Answer: They have a controller that can be infected.
+Least Secure Passwords:
+
+Question: Which three passwords are the least secure? (Choose three.)
+Answer: randolph, 135792468, asdfghjkl.
+Use of Zabasearch:
+
+Question: Why would an IT person use Zabasearch?
+Answer: To research a person.
+Goal of a White Hat Hacker:
+
+Question: What is the goal of a white hat hacker?
+Answer: Protecting data.
+Reducing Online Risk:
+
+Question: Which action can help reduce online risk?
+Answer: Only accept unsolicited software updates when logged into a secure network.
+Security Risk in a Wi-Fi Hotspot:
+
+Question: An employee is using a coffee shop Wi-Fi hotspot to access corporate email. What action can the employee take to reduce the security risk of using a hotspot?
+Answer: Encrypt traffic through a VPN.
+Creating a Strong Password:
+
+Question: Which three elements should be combined when creating a strong password? (Choose three.)
+Answer: Includes upper and lower case letters, Uses minimum of 8 characters, Includes numbers and letters.
+Examples of Personally Identifiable Information:
+
+Question: What are three examples of personally identifiable information? (Choose three.)
+Answer: Bank account number, Birth date, Vehicle identification number.
+High Security Risks in Online Activities:
+
+Question: Which two online activities pose high security risks? (Choose two.)
+Answer: Sharing information on social media, Following email links that have already been scanned by the email server.
 
 (Note: Specific details for each question are not provided due to incompleteness.)
