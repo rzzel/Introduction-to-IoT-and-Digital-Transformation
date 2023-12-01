@@ -1,0 +1,39 @@
+**5.2 Protecting the Corporate World**
+
+**5.2.1 Security Best Practices**
+- Emphasizes the importance of following security policies, procedures, and standards across the entire network.
+- Stresses the need for security in cables, data in transit, stored data, networking devices, and end devices.
+- Introduces security best practices listed in the table.
+
+**5.2.2 Physical Security**
+- Highlights the operational priority of physical security in today's data centers.
+- Discusses outside and inside perimeter security measures, including security traps.
+- Explains the use of biometric access and exit sensors for enhanced security.
+
+**5.2.3 Challenges of Securing IoT devices**
+- Addresses challenges in securing IoT devices, including an increasing number of devices, non-traditional device locations, and lack of upgradeability.
+- Discusses the implications of small, diverse IoT devices on network security.
+- Emphasizes the need for methods to ensure data authenticity, integrity, and security in IoT deployments.
+
+**5.2.4 Safe Wi-Fi Usage**
+- Discusses the popularity of wireless networks in businesses and the need for proper security.
+- Outlines steps to protect a wireless network, ensuring both mobility and security.
+
+**5.2.5 Protect End Devices**
+- Defines end devices and their role as sources or destinations for network data.
+- Provides common ways to secure end devices, including firewall usage, OS and browser management, antivirus and antispyware, and device protection measures.
+
+**5.2.6 Packet Tracer - Configure Wireless Security**
+- Practical activity in Packet Tracer to secure a wireless router on a home network.
+
+**5.2.7 Check Your Understanding - Protecting the Corporate World**
+- Assessment questions related to security best practices and physical security measures.
+  - Security best practice 1: Scenario involving malware software installation.
+    - Correct Answer: Maintain Security Patches Updates
+  - Security best practice 2: Scenario involving a retinal scan for a new employee.
+    - Correct Answer: Employ Access Controls
+  - Security best practice 3: Scenario involving the replacement of old routers and firewalls.
+    - Correct Answer: Implement Network Security Devices
+  - Security trap: Definition of a security trap in physical security.
+  - Secure Wireless Router: Three steps to secure a home or small business wireless router.
+    - Correct Answers: Use WPA2 security, Create a strong administrator password, Enable the built-in firewall.
